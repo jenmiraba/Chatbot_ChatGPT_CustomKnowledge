@@ -10,6 +10,7 @@ This project aims to enhance the knowledge of ChatGPT, a large language model tr
 ![Alternate image text](https://i.imgur.com/e4q79hZ.png)
 
 
+
 ## Usage
 Once you run both codes and access the chat interface in your web browser, you can ask questions related to the World Cup 2022, and ChatGPT will provide some relevant answers based on the custom knowledge base. 
 
@@ -24,6 +25,7 @@ However, you can use this for other business cases such as:
 💶 **Banking:** to answer queries related to account balances, transaction history, and loan applications. 
 
 🏢 **Public Services:** to answer queries related to policies, regulations, and public services in general in an efficient way. 
+
 
 
 
