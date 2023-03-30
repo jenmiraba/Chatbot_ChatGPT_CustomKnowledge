@@ -33,13 +33,13 @@ However, you can use this for other business cases such as:
 This project uses the following libraries:
 
 
-**pandas:** A library for data manipulation and analysis. We used it to load and manipulate the World Cup 2022 data.
+**pandas:** for data manipulation and analysis. We used it to load and manipulate the World Cup 2022 data.
 
-**re**: A regular expression library used to extract and clean the text data for training the GPT model.
+**re**: to extract and clean the text data for training the GPT model.
 
-**gradio:** A user interface library for creating interactive web applications. We used it to create an easy-to-use interface for the AI chat.
+**gradio:** user interface library for creating interactive web applications, used to create an easy-to-use interface for the AI chat.
 
-**langchain:** A Python library that provides an easy-to-use interface for working with the OpenAI GPT-3 API. We used it to generate responses from the AI chat.
+**langchain:** python library for working with the OpenAI GPT-3 API. We used it to generate responses from the AI chat.
 
 **gpt_index:** library that can be used to create a searchable index of chat logs, customer service interactions, or product reviews, among other things.
 
