@@ -7,6 +7,7 @@
 
 This project aims to enhance the knowledge of ChatGPT, a large language model trained by OpenAI, by incorporating information about the World Cup 2022. The information is collected from various newspapers and blogs about the event that have occurred after the knowledge cutoff date, which is September 2021. With the help of this project, users can ask questions about the World Cup 2022 and get relevant answers based on the custom knowledge base.
 
+![Alternate image text](https://i.imgur.com/e4q79hZ.png)
 
 
 ## Usage
